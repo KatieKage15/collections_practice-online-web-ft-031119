@@ -9,5 +9,5 @@ end
 def sort_array_desc(array)
   array = [22, 15, 45, 6]
   array.sort do
-    
+
   end
